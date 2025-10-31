@@ -1,3 +1,6 @@
+
+[//]: # (Hand written initial app description)
+
 # ToolingDB
 
 Application is professional tool like Maximo to maintain company production assets. Specifically this is about foam tools which are used to produce foam parts. 
