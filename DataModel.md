@@ -1,4 +1,4 @@
-# 🗃️ Database Schema & Data Objects
+# Database Schema & Data Objects
 
 This file defines the core data structure for the ToolingDB.
 
