@@ -66,6 +66,7 @@ This file defines the core data structure for the ToolingDB.
 * `SerialNumber` (string, PK).
 * `ToolSerialNumber` (string, links to `Tool.SerialNumber`): The parent tool it belongs to.
 * `Status` (enum: 'Good', 'NeedsRepair', 'Damaged').
+* 
 
 ---
 

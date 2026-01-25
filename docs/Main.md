@@ -1,6 +1,10 @@
 
 [//]: # (Hand written initial app description)
 
+Lets start with main screen in Maximo style.
+There will be tiles showing amount of tools on every location.
+By clicking on tile, subpage will be opened with specific actions available for each location. Now generate only main screen and tiles.
+
 # ToolingDB
 
 Application is professional tool like Maximo to maintain company production assets. Specifically this is about foam tools which are used to produce foam parts. 
@@ -41,9 +45,6 @@ Carriers are stored in carriers warehouse. Carrier can be empty or with mounted 
 - cleaning area - mounted on carrier
 
 
-Lets start with main screen in Maximo style.
-There will be tiles showing amount of tools on every location.
-By clicking on tile, subpage will be opened with specific actions available for each location. Now generate only main screen and tiles.
 
 ## Tool
 Foam tool has its own screen to modify parameters.
