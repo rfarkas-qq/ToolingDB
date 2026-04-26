@@ -8,6 +8,7 @@
 * **Auth:**
     * email
     * Optional: Azure AD / Entra ID integration (enterprise SSO)
+* Tailwind CSS
 
 **Core Principles:**
 * Avoid DB-specific features 
