@@ -1,4 +1,6 @@
-# Development Rules & Guidelines
+# OBSOLETE
+
+Development Rules & Guidelines
 
 ## 1. Architecture & Fundamentals
 
