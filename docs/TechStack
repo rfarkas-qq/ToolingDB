@@ -110,9 +110,6 @@ Before any database object (Prisma model) executes a query, it must verify permi
 
 ---
 
-Tu je doplnená sekcia pre Logging & Activity Tracking, ktorú som integroval do tvojho technického zadania. Tento blok definuje úrovne logovania aj auditovanie aktivít používateľov.
-
-Markdown
 ## Logging & Activity Tracking
 
 The system must implement a centralized **Logger Service** to track system behavior, security events, and user activities.
